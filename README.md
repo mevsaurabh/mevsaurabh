@@ -17,7 +17,7 @@ Awadhesh Pratap Singh University, Rewa, M.P.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,php,react,mongodb,mysql,discord,aws,c,cpp,python,java,selenium,github,docker,kubernetes,notion,pycharm,tailwind,codepen,anaconda,eclipse,linux,tensorflow,StackOverflow,visualstudio,vite," />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,nodejs,php,react,mongodb,mysql,discord,aws,c,cpp,python,java,selenium,github,docker,kubernetes,notion,pycharm,tailwind,codepen,anaconda,eclipse,linux,tensorflow,visualstudio,vite," />
   </a>
 </p>
 

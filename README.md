@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 I'm a passionate Full Stack Developer with expertise in both front-end and back-end technologies. I specialize in creating responsive web applications and have a strong foundation in data structures and algorithms.
-vi
+
 🎓 Education  <br/>
 **Master of Computer Applications (2022 - 2024)**  
 Vellore Institute of Technology University, Chennai, T.N.
